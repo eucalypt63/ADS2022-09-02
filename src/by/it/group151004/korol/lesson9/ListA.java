@@ -20,7 +20,7 @@ public class ListA<T> implements List<T> {
 
         return str.toString();
     }
-
+//
     @Override
     public boolean add(T t) {
         if (amount == arr.length - 1) {

@@ -13,7 +13,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
 @SuppressWarnings("all")
-
+//
 //поставьте курсор на следующую строку и нажмите Ctrl+Shift+F10
 public class Test_jd01_11 extends HomeWork {
 

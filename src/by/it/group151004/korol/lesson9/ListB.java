@@ -83,7 +83,7 @@ public class ListB<T> implements List<T>{
 
         return true;
     }
-
+//
     @Override
     public boolean contains(Object o) {
         for (int i=0;i<amount;i++){

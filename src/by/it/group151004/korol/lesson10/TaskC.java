@@ -3,7 +3,7 @@ package by.it.group151004.korol.lesson10;
 import java.util.*;
 
 public class TaskC<E extends Comparable<E>>  implements NavigableSet<E> {
-
+//
     //Создайте аналог дерева TreeSet БЕЗ использования других классов СТАНДАРТНОЙ БИБЛИОТЕКИ
     //Не нужно на массивах это делать или маскируя в поля TreeSet, TreeMap и т.д.
     //Можно реализовать класс Node с двумя полями такого же типа (потомки дерева),
